@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Language",
+    "slug": "language"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Grammar",
+    "slug": "grammar"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Listening",
+    "slug": "listening"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 8,
+  "fields": {
+    "title": "Speaking",
+    "slug": "speaking"
+  }
+}
+]
